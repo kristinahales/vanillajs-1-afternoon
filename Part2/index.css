@@ -39,6 +39,10 @@ section {
   margin: 15px;
 }
 
+.card {
+  color: grey;
+}
+
 section span:nth-of-type(2) {
   margin: auto;
   font-size: 45px;
